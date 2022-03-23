@@ -2,6 +2,8 @@
 This is the implementation example of MUX player in React with HLS + React.
 Example of this can be found here: https://docs.mux.com/guides/video/play-your-videos#3-use-the-hls-url-in-a-player.
 
+Demo: https://kaungmyatlwin.github.io/mux-poc-player/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
